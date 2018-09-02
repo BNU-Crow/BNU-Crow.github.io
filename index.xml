@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>北师小鸦 官方网站</title>
-    <link>https://bnuya.com/</link>
+    <link>https://bnu-crow.com/</link>
     <description>Recent content on 北师小鸦 官方网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="https://bnuya.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bnu-crow.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://bnuya.com/readme/</link>
+      <link>https://bnu-crow.com/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bnuya.com/readme/</guid>
+      <guid>https://bnu-crow.com/readme/</guid>
       <description>placeholder</description>
     </item>
     

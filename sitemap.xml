@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bnuya.com/readme/</loc>
+    <loc>https://bnu-crow.com/readme/</loc>
   </url>
   
   <url>
-    <loc>https://bnuya.com/categories/</loc>
+    <loc>https://bnu-crow.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bnuya.com/tags/</loc>
+    <loc>https://bnu-crow.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://bnuya.com/</loc>
+    <loc>https://bnu-crow.com/</loc>
     <priority>0</priority>
   </url>
   
