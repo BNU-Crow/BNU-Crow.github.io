@@ -1,0 +1,3 @@
+[submodule "activity"]
+	path = activity
+	url = git@github.com:BNU-Crow/Xiaoya-Activity.git
